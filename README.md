@@ -12,8 +12,11 @@
 * `(echo "[ko]"; echo "@import url(ko/viewer.properties)") > web/locale/locale.properties`
 * `cp -r pdf.js/i10n pdf.js.test/web/locale`
 
+# PDF file location
+* You should download a pdf file and save it to the 'pdf.js.test' directory.
+
 # Clean-up
 * `rm -rf pdf.js`
 
 # Demo
-* [https://terzeron.com/pdf.js.test](https://terzeron.com/pdf.js.test)
+* [https://terzeron.com/pdf.js.test/web/viewer.html?filename=jit_type.pdf](https://terzeron.com/pdf.js.test/web/viewer.html?filename=jit_type.pdf)
