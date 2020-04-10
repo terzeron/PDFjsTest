@@ -1,0 +1,17 @@
+{
+  "name": "pdf.js.test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "systemjs": "^0.21.6",
+    "systemjs-plugin-babel": "0.0.25",
+    "web-streams-polyfill": "^2.1.0"
+  }
+}
